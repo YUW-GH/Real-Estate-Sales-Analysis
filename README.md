@@ -49,8 +49,7 @@ README.md
 ## 👩‍💻 Author
 
 **YU WU**  
-https://github.com/YUW-GH
-M.S. in Business Analytics 
+[https://github.com/YUW-GH](https://github.com/YUW-GH/Real-Estate-Sales-Analysis)
 
 ---
 
