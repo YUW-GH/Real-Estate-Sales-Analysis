@@ -1,10 +1,10 @@
-# 🏠 Connecticut Real Estate Sales Analysis
+# Connecticut Real Estate Sales Analysis
 
 This project provides an exploratory data analysis (EDA) of Connecticut real estate transactions using Python. It leverages data visualization and statistical techniques to uncover trends in property sales, identify key factors affecting prices, and provide insights at the city levels.
 
 ---
 
-## 📊 Project Objectives
+## Project Objectives
 
 - Clean and preprocess real estate sales data
 - Explore price trends by city and property type
@@ -13,7 +13,7 @@ This project provides an exploratory data analysis (EDA) of Connecticut real est
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 CT_Real_Estate_Sale_Analysis.ipynb   
@@ -22,7 +22,7 @@ README.md
 ```
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Python (Pandas, NumPy)
 - Data Visualization: Matplotlib, Seaborn
@@ -30,7 +30,7 @@ README.md
 
 ---
 
-## 🗺️ Key Insights
+## Key Insights
 
 - Median sale prices and trends by city and year
 - Most active cities by volume and price
@@ -38,7 +38,7 @@ README.md
 
 ---
 
-## 📌 To-Do
+## To-Do
 
 - Add regression modeling for price prediction
 - Incorporate time series forecasting
@@ -46,7 +46,7 @@ README.md
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **YU WU**  
 [https://github.com/YUW-GH](https://github.com/YUW-GH/Real-Estate-Sales-Analysis)
